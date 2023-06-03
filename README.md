@@ -1,1 +1,2 @@
-# react-native-movieApp
+
+using react native to build movie app
